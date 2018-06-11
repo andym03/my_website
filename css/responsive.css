@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+  .logo-menu a {
+    font-size: 40px;
+    color: #fff;
+  }
+
+  .col-centered{
+    float: none;
+    margin: 0 auto;
+  }
+}
