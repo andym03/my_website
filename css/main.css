@@ -1221,6 +1221,14 @@ footer {
   background: #9b59b6;
   color:white
 }
+.youtube a {
+  color:  #ff0000;
+  font-size: 20px
+}
+.youtube a:hover {
+  background: #ff0000;
+  color:white
+}
 .redbubble a {
   color: #f21d39;
 }
@@ -1232,12 +1240,6 @@ footer {
 }
 .google-plus a:hover {
   background: #dd4d42;
-}
-.youtube a {
-  color: #df2926;
-}
-.youtube a:hover {
-  background: #df2926;
 }
 .linkedin a {
   color: #007bb6;
